@@ -72,13 +72,7 @@ body {
   justify-content: flex-end;
   margin-right: 0.25rem;
 }
-.chat_badge_box > img:last-child{
-
- content:url("F:\BridgeBBCC-master\BridgeBBCC-master\images\badge\subs1.png")
-
-
-
-
+.chat_badge_box > img{
   width: 1.375rem;
   height: 1.375rem;
   margin: 0 0 0 0.1rem;
